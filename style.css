@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&display=swap');
+
+* {
+	padding: auto;
+	margin: 0;
+}
+
+.navbar-brand {
+  font-style: oblique;
+  font-family: 'Montserrat';
+  color: #1f2746 !important;
+  font-size: 30px;
+  text-align: left;
+}
+.nav { 
+  align-items: baseline;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 30%;
+    text-decoration: none ;
+}
+li {
+  display: flexbox;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration:none;
+  align-self: auto;
+}
+
+
